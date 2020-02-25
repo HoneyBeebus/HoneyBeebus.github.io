@@ -1,0 +1,17 @@
+body {
+	background: #999;
+	font-family: fantasy;
+}
+h1 {
+	color: #456;
+}
+
+h2 {
+	color: #984;
+}
+
+p {
+	background: #666;
+	color: white;
+	padding: 10px, 10px, 10px, 10px;
+}
